@@ -1,2 +1,2 @@
 # FrozenJam
-Prototype I for 170, Fall 2108
+Prototype II for 170, Fall 2018
